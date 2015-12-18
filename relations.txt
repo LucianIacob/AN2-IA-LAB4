@@ -1,0 +1,9 @@
+A=B
+C=D
+E&D=F
+G=H
+I=J
+K=L
+D&M&N=O
+P&N&M=Q
+I=R

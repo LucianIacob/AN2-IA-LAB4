@@ -1,0 +1,18 @@
+B-Aspersorul uda 30 minute-o
+F-Aspersorul uda 20 minute-o
+H-Temperatura > 20 grade-i
+J-Temperatura < 5 grade-i
+L-Umiditatea > 60-i
+O-Aspersorul uda 10 minute-o
+Q-Aspersorul uda 3 minute-o
+R-Aspersorul este oprit-o
+A-Temperatura > 40*C-i
+C-Cerul este senin-i
+D-Umiditatea < 50-i
+E-Temperatura > 25*C-i
+G-Este vara-i
+I-Este iarna-i
+K-Sunt nori-i
+M-Temperatura < 25*C-i
+N-Temperatura > 15*C-i
+P-Umiditatea > 50-i
